@@ -1,0 +1,11 @@
+{
+  "api.name": "product",
+  "product.http.address": "product-microservice",
+  "studentrecord.http.port": 8082,
+  "host": "127.0.0.1",
+  "port": 3306,
+  "database":"items",
+  "user":"user1",
+  "password": "mypa55",
+  "max_pool_size": 5
+}

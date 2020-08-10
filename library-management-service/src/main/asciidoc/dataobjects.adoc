@@ -1,0 +1,18 @@
+= Cheatsheets
+
+[[LibraryRecord]]
+== LibraryRecord
+
+
+[cols=">25%,25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[createDate]]`@createDate`|`String`|-
+|[[holdDays]]`@holdDays`|`String`|-
+|[[itemCount]]`@itemCount`|`Number (int)`|-
+|[[libUserId]]`@libUserId`|`String`|-
+|[[updateDate]]`@updateDate`|`String`|-
+|[[userType]]`@userType`|`String`|-
+|===
+

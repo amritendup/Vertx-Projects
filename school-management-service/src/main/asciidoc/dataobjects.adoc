@@ -1,0 +1,17 @@
+= Cheatsheets
+
+[[StudentRecord]]
+== StudentRecord
+
+
+[cols=">25%,25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[email]]`@email`|`String`|-
+|[[fistName]]`@fistName`|`String`|-
+|[[grade]]`@grade`|`String`|-
+|[[lastName]]`@lastName`|`String`|-
+|[[studentId]]`@studentId`|`String`|-
+|===
+
